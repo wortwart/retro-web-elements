@@ -1,9 +1,9 @@
 # retro-web-elements
 
-A collection of six HTML elements to revive the joys of web development in the 90s, built with Polymer.
+A collection of six HTML elements to revive the joys of web development in the 90s, built with [Polymer 3](https://www.polymer-project.org/).
 
 - **`retro-basefont`**: The `<basefont>` element.
-- **`retro-bgsound`**: The `<bgsound>` element. Uses jasmid to parse MIDI files in browsers that don't support this element natively (= everything not Internet Explorer). The sound quality leaves room for improvement.
+- **`retro-bgsound`**: The `<bgsound>` element. Uses [jasmid](https://github.com/wortwart/jasmid) to parse MIDI files in browsers that don't support this element natively (= everything not Internet Explorer). The sound quality leaves room for improvement.
 - **`retro-blink`**: The `<blink>` element.
 - **`retro-counter`**: Creates a 90s-style visitor counter with a random value.
 - **`retro-gif`**: Creates fake GIF animations (jumping, pulsating).
